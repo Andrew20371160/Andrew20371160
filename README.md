@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - Description: A pan and tilt head mounted with a camera designed for real-time tracking of moving objects to keep the center of the camera on the center of mass of the object.
 
 - My Role:
-o Designed and implemented the Model by following a scientific paper, it’s a 1D array of vertices keeping the object within its perimeter via deformation and matching the object’s shape via adding/removing vertices.
+  - Designed and implemented the Model by following a scientific paper, it’s a 1D array of vertices keeping the object within its perimeter via deformation and matching the object’s shape via adding/removing vertices.
 
 o Unit testing of the model to match the intended behavior from the paper.
 
