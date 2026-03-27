@@ -88,7 +88,7 @@ An open-source C++ library that I built while studying MITOCW Linear Algebra cou
   - algorithms’ runtime for these special matrices by iterating over non-zero elements only which decreases matrix multiplication running time down to 50%.  
   - performance and eliminated crashes for big matrices (1024x1024) via cache utilization by changing the underlying data structure from a a2D array to a 1D array with the same interface.  
 
-- **GitHub repository:** github.com/Andrew20371160/Matrix-Library  
+- **GitHub repository:** [github.com/Andrew20371160/Matrix-Library ](https://github.com/Andrew20371160/Matrix-Library) 
 
 ---
 
@@ -99,7 +99,7 @@ An open-source C++ library that supports up to 21 mathematical functions that I 
 - **Designed and implemented:**  
   - Expression tree generation from mathematical expression, a preprocessor that examines the mathematical expression for errors, expression evaluation, symbolic differentiation, numerical integration, vector calculus (gradient, curl, divergence).  
 
-- **GitHub repository:** github.com/Andrew20371160/Calculus-Tree-Library  
+- **GitHub repository:** [github.com/Andrew20371160/Calculus-Tree-Library ](https://github.com/Andrew20371160/Calculus-Tree-Library) 
 
 ---
 
@@ -112,7 +112,7 @@ A C++ graph-based Digital Logic Design Environment inspired by an exam question 
   - Console application that allows engineers to build, wire, and evaluate logic circuits made from primary logic gates.  
   - File persistence to save and reuse already built components with its wiring.  
 
-- **GitHub repository:** github.com/Andrew20371160/Digital-Logic-Design-Environment  
+- **GitHub repository:** [github.com/Andrew20371160/Digital-Logic-Design-Environment  ](https://github.com/Andrew20371160/Digital-Logic-Design-Environment)
 
 ---
 
@@ -126,7 +126,7 @@ A C++ framework for engineers to design interactive flows such as customer servi
     2. User Mode: interact with existing trees (read-only operations)  
   - File persistence by saving & loading the decision trees in the same structure.  
 
-- **GitHub repository:** github.com/Andrew20371160/Yes-No-decision-tree  
+- **GitHub repository:** [github.com/Andrew20371160/Yes-No-decision-tree](https://github.com/Andrew20371160/Yes-No-decision-tree)  
 
 ---
 
@@ -139,10 +139,10 @@ A C++ database creator that allows engineers to set up databases with their defi
   - An abstraction layer on top of the binary search tree that lets engineers create their custom database schema.  
   - File persistence by saving databases with a bin file that includes starting index for each record so that when the database is loaded, it’s loaded in linear time instead of O(N log(N)).  
 
-- **GitHub repository:** github.com/Andrew20371160/Database-Creator  
+- **GitHub repository:** [github.com/Andrew20371160/Database-Creator](https://github.com/Andrew20371160/Database-Creator)  
 
 ---
 
 ## How to reach out 
 - **Email:** andrew.k.saber@gmail.com  
-- **LinkedIn:** [https://www.linkedin.com/in/andrew-karam-saber-435b78228/]
+- **LinkedIn:** [[https://www.linkedin.com/in/andrew-karam-saber-435b78228/]](https://www.linkedin.com/in/andrew-karam-saber-435b78228/)
