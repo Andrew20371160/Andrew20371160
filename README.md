@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 - **Coursework project** where I took up a **leadership opportunity** outside the scope of my experience for the project to work, cemented operating systems concepts via applying them in a real-life project.
 
 - **Personal projects** driven by **curiosity**, ranging from **mathematical libraries** to apply what I was learning while studying mathematics for**artificial intelligence**, **Simulation tools** that helped me grow in **systems design**.
-
+---
 - After graduation I now seek to solve **new problems**, not just ones that already have been solved.
-
+---
 
 Technical Skills
 • Programming languages: C++, Python.
