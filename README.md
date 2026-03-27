@@ -93,23 +93,25 @@ integrated our first version.
 
 ---
 
-# Projects
+## Projects
 
-1. Matrix Library
-• Description: An open-source C++ library that I built while studying MITOCW Linear Algebra
-course.
-• Designed and Implemented:
-o Linear Algebra Algorithms ranging from matrix arithmetic, linear solvers to the four
-fundamental subspaces, matrix factorizations, fast Fourier transform (FFT).
-o compression algorithms for matrices with different structures, which is outside the
-scope of the course, which decreases storage for triangular matrices down to 50%.
-• Optimized:
-o algorithms’ runtime for these special matrices by iterating over non-zero elements
-only which decreases matrix multiplication running time down to 50%.
-o performance and eliminated crashes for big matrices (1024x1024) via cache
-utilization by changing the underlying data structure from a a2D array to a 1D array
-with the same interface.
-• GitHub repository: github.com/Andrew20371160/Matrix-Library
+---
+# 1. Matrix Library
+
+- Description: An open-source C++ library that I built while studying MITOCW Linear Algebra course.
+
+- Designed and Implemented:
+  - Linear Algebra Algorithms ranging from matrix arithmetic, linear solvers to the four fundamental subspaces, matrix factorizations, fast Fourier transform (FFT).
+- compression algorithms for matrices with different structures, which is outside the scope of the course, which decreases storage for triangular matrices down to 50%.
+
+- Optimized:
+  - algorithms’ runtime for these special matrices by iterating over non-zero elements only which decreases matrix multiplication running time down to 50%.
+  - performance and eliminated crashes for big matrices (1024x1024) via cache utilization by changing the underlying data structure from a a2D array to a 1D array with the same interface.
+
+- GitHub repository: github.com/Andrew20371160/Matrix-Library
+
+---
+
 2. Calculus Tree Library
 • Description: An open-source C++ library that supports up to 21 mathematical functions that I
 built to know how expression trees work after listening to a 5-minute overview about them in
