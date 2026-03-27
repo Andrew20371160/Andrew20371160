@@ -145,5 +145,4 @@ A C++ database creator that allows engineers to set up databases with their defi
 
 ## How to reach out 
 - **Email:** andrew.k.saber@gmail.com  
-- **LinkedIn:** linkedin.com/in/andrew-karam-saber-435b78228  
-- **GitHub/Portfolio:** github.com/Andrew20371160  
+- **LinkedIn:** [https://www.linkedin.com/in/andrew-karam-saber-435b78228/]
