@@ -31,21 +31,22 @@ Here are some ideas to get you started:
 ---
 
 # Technical Skills
-- Programming languages: C++, Python.
-- Frameworks/Libraries: STL, Pthreads, NumPy, Matplotlib, Scikit-Learn.
-- Version Control: GitHub.
-- Concepts: Data structures, Algorithms, Object-Oriented Programming (OOP), Multithreading, Concurrency, Software Development Life Cycle, Unit testing, System testing, Code review, Code optimization, Agile process.
+- **Programming languages**: C++, Python.
+- **Frameworks/Libraries**: STL, Pthreads, NumPy, Matplotlib, Scikit-Learn.
+- **Version Control**: GitHub.
+- **Concepts**: Data structures, Algorithms, Object-Oriented Programming (OOP), Multithreading, Concurrency, Software Development Life Cycle, Unit testing, System testing, Code review, Code optimization, Agile process.
 
 ---
 
 # Education
-- B.Sc. in Computer Engineering | Assiut University | 2020–2025
+- B.Sc. in **Computer Engineering** | Assiut University | 2020–2025
 
 ---
-# Graduation project: Monocular Vision Tracking System (October 2024-July 2025)
+
+# **Graduation project**: Monocular Vision Tracking System (October 2024-July 2025)
 - Description: A pan and tilt head mounted with a camera designed for real-time tracking of moving objects to keep the center of the camera on the center of mass of the object.
 
-- My Role:
+- **My Role**:
   - Designed and implemented the Model by following a scientific paper, it’s a 1D array of vertices keeping the object within its perimeter via deformation and matching the object’s shape via adding/removing vertices.
 
   - Unit testing of the model to match the intended behavior from the paper.
@@ -64,10 +65,13 @@ Here are some ideas to get you started:
     1. Progress & issues report in my module and others’ modules.
     2. How to integrate different software modules.
 
-o Exposed to agile process by making and refining a new version of my module every two weeks while adding new features along the way.
-o Participated in code reviews for my module and for others’ modules.
-o Solidified Software Development Life Cycle by being exposed to it in a real-life scenario.
-• Technologies: C++, Python
+  - Exposed to agile process by making and refining a new version of my module every two weeks while adding new features along the way.
+  - Participated in code reviews for my module and for others’ modules.
+  - Solidified Software Development Life Cycle by being exposed to it in a real-life scenario.
+    
+- **Technologies**: C++, Python
+
+---
 
 # Coursework project: Online File Storage Website
 • Description: A website that allows users with accounts to store/retrieve files using a local
