@@ -13,11 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+---
 - I’m a **junior software engineer** who seeks an **opportunity** to grow and have an impact on society by solving real-life problems and being a part of a bigger wheel.
 
 - I spent my years in college tackling problems by building projects with the main **drive** being curiosity and learning new things along the way.
-
+---
 - I have a **diverse portfolio** of projects; each had an impact on me:
 
 - **Graduation project** where I had exposure to computational geometry, agile process, software development life cycle, unit testing & system testing, how to operate within a team and code review.
