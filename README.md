@@ -1,18 +1,14 @@
 # Hey I'm Andrew 
 
-I’m a junior software engineer who seeks an opportunity to grow and have an impact on society by solving real-life problems and being a part of a bigger wheel.  
+I’m a junior software engineer who seeks an opportunity to grow and have an impact on society by solving real-life problems and being a part of a bigger wheel and this is **my rxperience so far** 
 
 ---
 
-# My Experience so far 
+# projects where I worked in a team environment 
 
 ---
 
-## projects where I worked in a team environment 
-
----
-
-### Graduation project: Monocular Vision Tracking System (October 2024-July 2025)
+## Graduation project: Monocular Vision Tracking System (October 2024-July 2025)
 
 - **Description:**  
 A pan and tilt head mounted with a camera designed for real-time tracking of moving objects to keep the center of the camera on the center of mass of the object.  
