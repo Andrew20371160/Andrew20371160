@@ -5,7 +5,10 @@
 I’m a junior software engineer who seeks an opportunity to grow and have an impact on society by solving real-life problems and being a part of a bigger wheel.  
 
 ---
+
 # My Experience so far 
+
+---
 
 ## Graduation project: Monocular Vision Tracking System (October 2024-July 2025)
 
@@ -33,6 +36,7 @@ A pan and tilt head mounted with a camera designed for real-time tracking of mov
 - **Technologies:** C++, Python  
 
 - **GitHub repository** [https://github.com/Andrew20371160/The-Model](https://github.com/Andrew20371160/The-Model)
+
 ---
 
 ## Coursework project: Online File Storage Website
@@ -54,7 +58,7 @@ A website that allows users with accounts to store/retrieve files using a local 
 
 ---
 
-## Projects
+##Personal Projects
 
 ### 1. Matrix Library
 - **Description:**  
