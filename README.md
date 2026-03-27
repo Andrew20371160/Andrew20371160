@@ -1,6 +1,6 @@
 # Hey I'm Andrew 
 
-I’m a junior software engineer who seeks an opportunity to grow and have an impact on society by solving real-life problems and being a part of a bigger wheel and this is **my rxperience so far** 
+I’m a junior software engineer who seeks an opportunity to grow and have an impact on society by solving real-life problems and being a part of a bigger wheel and this is **my experience so far** 
 
 ---
 
