@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 
 - I have a **diverse portfolio** of projects; each had an impact on me:
 
-• **Graduation project** where I had exposure to computational geometry, agile process, software development life cycle, unit testing & system testing, how to operate within a team and code review.
+-- **Graduation project** where I had exposure to computational geometry, agile process, software development life cycle, unit testing & system testing, how to operate within a team and code review.
 
-• **Coursework project** where I took up a **leadership opportunity** outside the scope of my experience for the project to work, cemented operating systems concepts via applying them in a real-life project.
+-- **Coursework project** where I took up a **leadership opportunity** outside the scope of my experience for the project to work, cemented operating systems concepts via applying them in a real-life project.
 
-• **Personal projects** driven by **curiosity**, ranging from **mathematical libraries** to apply what I was learning while studying mathematics for**artificial intelligence**, **Simulation tools** that helped me grow in **systems design**.
+-- **Personal projects** driven by **curiosity**, ranging from **mathematical libraries** to apply what I was learning while studying mathematics for**artificial intelligence**, **Simulation tools** that helped me grow in **systems design**.
 
-# After graduation I now seek to solve **new problems**, not just ones that already have been solved.
+- After graduation I now seek to solve **new problems**, not just ones that already have been solved.
 
 
 Technical Skills
