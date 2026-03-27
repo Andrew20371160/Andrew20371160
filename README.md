@@ -141,6 +141,8 @@ A C++ probability & statistics library built around a **template-based Binary Se
 
 **GitHub repository:** [Probability and Statistics Library](https://github.com/Andrew20371160/Probability-and-Statistics-Library)
 
+---
+
 ## Technical Skills
 - **Programming languages:** C++, Python.  
 - **Frameworks/Libraries:** STL, Pthreads, NumPy, Matplotlib, Scikit-Learn.  
@@ -155,5 +157,5 @@ A C++ probability & statistics library built around a **template-based Binary Se
 ---
 
 ## How to reach out 
-- [Email](andrew.k.saber@gmail.com)  
+- Email: (andrew.k.saber@gmail.com)  
 - [LinkedIn](https://www.linkedin.com/in/andrew-karam-saber-435b78228/)
