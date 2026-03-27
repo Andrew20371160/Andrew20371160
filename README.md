@@ -5,19 +5,7 @@
 I’m a junior software engineer who seeks an opportunity to grow and have an impact on society by solving real-life problems and being a part of a bigger wheel.  
 
 ---
-
-## Technical Skills
-- **Programming languages:** C++, Python.  
-- **Frameworks/Libraries:** STL, Pthreads, NumPy, Matplotlib, Scikit-Learn.  
-- **Version Control:** GitHub.  
-- **Concepts:** Data structures, Algorithms, Object-Oriented Programming (OOP), Multithreading, Concurrency, Software Development Life Cycle, Unit testing, System testing, Code review, Code optimization, Agile process.  
-
----
-
-## Education
-**B.Sc. in Computer Engineering | Assiut University | 2020–2025**
-
----
+# My Experience so far 
 
 ## Graduation project: Monocular Vision Tracking System (October 2024-July 2025)
 
@@ -132,6 +120,19 @@ A C++ database creator that allows engineers to set up databases with their defi
   - File persistence by saving databases with a bin file that includes starting index for each record so that when the database is loaded, it’s loaded in linear time instead of O(N log(N)).  
 
 - **GitHub repository:** [github.com/Andrew20371160/Database-Creator](https://github.com/Andrew20371160/Database-Creator)  
+
+---
+
+## Technical Skills
+- **Programming languages:** C++, Python.  
+- **Frameworks/Libraries:** STL, Pthreads, NumPy, Matplotlib, Scikit-Learn.  
+- **Version Control:** GitHub.  
+- **Concepts:** Data structures, Algorithms, Object-Oriented Programming (OOP), Multithreading, Concurrency, Software Development Life Cycle, Unit testing, System testing, Code review, Code optimization, Agile process.  
+
+---
+
+## Education
+**B.Sc. in Computer Engineering | Assiut University | 2020–2025**
 
 ---
 
