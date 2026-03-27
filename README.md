@@ -10,7 +10,9 @@ I’m a junior software engineer who seeks an opportunity to grow and have an im
 
 ---
 
-## Graduation project: Monocular Vision Tracking System (October 2024-July 2025)
+## projects where I worked in a team environment 
+
+### Graduation project: Monocular Vision Tracking System (October 2024-July 2025)
 
 - **Description:**  
 A pan and tilt head mounted with a camera designed for real-time tracking of moving objects to keep the center of the camera on the center of mass of the object.  
@@ -58,7 +60,7 @@ A website that allows users with accounts to store/retrieve files using a local 
 
 ---
 
-##Personal Projects
+## Personal Projects
 
 ### 1. Matrix Library
 - **Description:**  
