@@ -12,6 +12,8 @@ I’m a junior software engineer who seeks an opportunity to grow and have an im
 
 ## projects where I worked in a team environment 
 
+---
+
 ### Graduation project: Monocular Vision Tracking System (October 2024-July 2025)
 
 - **Description:**  
