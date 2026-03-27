@@ -53,6 +53,7 @@ A pan and tilt head mounted with a camera designed for real-time tracking of mov
 
 - **Technologies:** C++, Python  
 
+- **GitHub repository** [https://github.com/Andrew20371160/The-Model](https://github.com/Andrew20371160/The-Model)
 ---
 
 ## Coursework project: Online File Storage Website
