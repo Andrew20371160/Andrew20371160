@@ -74,27 +74,27 @@ Here are some ideas to get you started:
 ---
 
 # Coursework project: Online File Storage Website
-• Description: A website that allows users with accounts to store/retrieve files using a local
+
+- Description: A website that allows users with accounts to store/retrieve files using a local
 network.
-• My Role:
-o Leadership in designing the architecture of the whole system and dissecting it into
-manageable modules, each with its tasks, which helped my teammates start working on
-the project after a month of no progress, within a two-week period we developed and
+
+- My Role:
+  - Leadership in designing the architecture of the whole system and dissecting it into manageable modules, each with its tasks, which helped my teammates start working on the project after a month of no progress, within a two-week period we developed and
 integrated our first version.
-o Designed and implemented a C++ server from scratch that keeps track of users’
-accounts, handles authentication and file loading & uploading.
-o The server can handle up to 1000 users’ requests concurrently via implementing a thread
-pool, which consists of a listener thread and another 1000 working threads and solved
-concurrency problems that came up with it.
-o Designed the communication protocol between the flask side and the server side.
-• Outcomes:
-o Learned the importance of the bigger picture and how system’s architecture affects the
-software engineering process.
-o Learned the importance of having bias for action in a real-life scenario by taking up a
-leadership opportunity beyond the scope of my experience for the sole purpose for the
-project to work, though I knew my credits wouldn’t be affected.
-• Technologies: C++, Pthreads, STL
-Projects
+  - Designed and implemented a C++ server from scratch that keeps track of users’ accounts, handles authentication and file loading & uploading.
+  - The server can handle up to 1000 users’ requests concurrently via implementing a thread pool, which consists of a listener thread and another 1000 working threads and solved concurrency problems that came up with it.
+  - Designed the communication protocol between the flask side and the server side.
+
+- Outcomes:
+  - Learned the importance of the bigger picture and how system’s architecture affects the software engineering process.
+  - Learned the importance of having bias for action in a real-life scenario by taking up a leadership opportunity beyond the scope of my experience for the sole purpose for the project to work, though I knew my credits wouldn’t be affected.
+
+- Technologies: C++, Pthreads, STL
+
+---
+
+# Projects
+
 1. Matrix Library
 • Description: An open-source C++ library that I built while studying MITOCW Linear Algebra
 course.
