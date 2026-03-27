@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - After graduation I now seek to solve **new problems**, not just ones that already have been solved.
 ---
 
-Technical Skills
+# Technical Skills
 • Programming languages: C++, Python.
 • Frameworks/Libraries: STL, Pthreads, NumPy, Matplotlib, Scikit-Learn.
 • Version Control: GitHub.
@@ -143,5 +143,5 @@ O (N log(N)).
 • GitHub repository: github.com/Andrew20371160/Database-Creator
 
 # How to reach me:
-• **Email**: andrew.k.saber@gmail.com
-• **LinkedIn**: linkedin.com/in/andrew-karam-saber-435b78228
+- **Email**: andrew.k.saber@gmail.com
+- **LinkedIn**: linkedin.com/in/andrew-karam-saber-435b78228
