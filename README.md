@@ -19,13 +19,13 @@ Here are some ideas to get you started:
 - I’m a **junior software engineer** who seeks an **opportunity** to grow and have an impact on society by solving real-life problems and being a part of a bigger wheel.
 - I spent my years in college tackling problems by building projects with the main **drive** being curiosity and learning new things along the way.
 - I have a **diverse portfolio** of projects; each had an impact on me:
----
+
   - **Graduation project** where I had exposure to computational geometry, agile process, software development life cycle, unit testing & system testing, how to operate within a team and code review.
 
   - **Coursework project** where I took up a **leadership opportunity** outside the scope of my experience for the project to work, cemented operating systems concepts via applying them in a real-life project.
 
   - **Personal projects** driven by **curiosity**, ranging from **mathematical libraries** to apply what I was learning while studying mathematics for**artificial intelligence**, **Simulation tools** that helped me grow in **systems design**.
----
+
 - After graduation I now seek to solve **new problems**, not just ones that already have been solved.
 
 ---
