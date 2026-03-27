@@ -39,36 +39,37 @@ Here are some ideas to get you started:
 ---
 
 # Education
-B.Sc. in Computer Engineering | Assiut University | 2020–2025
+- B.Sc. in Computer Engineering | Assiut University | 2020–2025
 
+---
+# Graduation project: Monocular Vision Tracking System (October 2024-July 2025)
+- Description: A pan and tilt head mounted with a camera designed for real-time tracking of moving objects to keep the center of the camera on the center of mass of the object.
 
-Graduation project: Monocular Vision Tracking System (October 2024-July 2025)
-• Description: A pan and tilt head mounted with a camera designed for real-time tracking of
-moving objects to keep the center of the camera on the center of mass of the object.
-• My Role:
-o Designed and implemented the Model by following a scientific paper, it’s a 1D array of
-vertices keeping the object within its perimeter via deformation and matching the object’s
-shape via adding/removing vertices.
+- My Role:
+o Designed and implemented the Model by following a scientific paper, it’s a 1D array of vertices keeping the object within its perimeter via deformation and matching the object’s shape via adding/removing vertices.
+
 o Unit testing of the model to match the intended behavior from the paper.
-o System testing which revealed real-life problems in the model’s implementation from the
-scientific paper due to noise from the camera and the pan and tilt head. Solved these
-problems by engineering:
+
+o System testing which revealed real-life problems in the model’s implementation from the scientific paper due to noise from the camera and the pan and tilt head. Solved these problems by engineering:
+
 1. A control system that decides the next operation performed by the model.
 2. Edges intersections’ detection and removal.
 3. Failure detection and recovery.
-4. Adding and optimizing parameters that control the model’s deformation and
-sensitivity to adding and removing new vertices.
+4. Adding and optimizing parameters that control the model’s deformation and sensitivity to adding and removing new vertices.
+
 o Designed and used exterior tools and scripts to visualize problems.
-• Outcomes:
+
+- Outcomes:
 o Learned how to operate within a team:
 1. Progress & issues report in my module and others’ modules.
 2. How to integrate different software modules.
-o Exposed to agile process by making and refining a new version of my module every two
-weeks while adding new features along the way.
+
+o Exposed to agile process by making and refining a new version of my module every two weeks while adding new features along the way.
 o Participated in code reviews for my module and for others’ modules.
 o Solidified Software Development Life Cycle by being exposed to it in a real-life scenario.
 • Technologies: C++, Python
-Coursework project: Online File Storage Website
+
+# Coursework project: Online File Storage Website
 • Description: A website that allows users with accounts to store/retrieve files using a local
 network.
 • My Role:
