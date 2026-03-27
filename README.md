@@ -48,21 +48,21 @@ Here are some ideas to get you started:
 - My Role:
   - Designed and implemented the Model by following a scientific paper, it’s a 1D array of vertices keeping the object within its perimeter via deformation and matching the object’s shape via adding/removing vertices.
 
-o Unit testing of the model to match the intended behavior from the paper.
+  - Unit testing of the model to match the intended behavior from the paper.
 
-o System testing which revealed real-life problems in the model’s implementation from the scientific paper due to noise from the camera and the pan and tilt head. Solved these problems by engineering:
+  - System testing which revealed real-life problems in the model’s implementation from the scientific paper due to noise from the camera and the pan and tilt head. Solved these problems by engineering:
 
-1. A control system that decides the next operation performed by the model.
-2. Edges intersections’ detection and removal.
-3. Failure detection and recovery.
-4. Adding and optimizing parameters that control the model’s deformation and sensitivity to adding and removing new vertices.
+    1. A control system that decides the next operation performed by the model.
+    2. Edges intersections’ detection and removal.
+    3. Failure detection and recovery.
+    4. Adding and optimizing parameters that control the model’s deformation and sensitivity to adding and removing new vertices.
 
-o Designed and used exterior tools and scripts to visualize problems.
+  - Designed and used exterior tools and scripts to visualize problems.
 
 - Outcomes:
-o Learned how to operate within a team:
-1. Progress & issues report in my module and others’ modules.
-2. How to integrate different software modules.
+  - Learned how to operate within a team:
+    1. Progress & issues report in my module and others’ modules.
+    2. How to integrate different software modules.
 
 o Exposed to agile process by making and refining a new version of my module every two weeks while adding new features along the way.
 o Participated in code reviews for my module and for others’ modules.
